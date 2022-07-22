@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Amanat Khan Shishir</h1>
-<h3 align="center">I am a professional Software Engineer from Bangladesh.</h3>
+<h3 align="center">I am a Software Engineer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shishir95&label=Profile%20views&color=0e75b6&style=flat" alt="shishir95" /> </p>
 
